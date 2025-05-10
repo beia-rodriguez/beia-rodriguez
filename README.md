@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Beia Ann E. Rodriguez, a second-year Information Technology student.<br>🎶 I'm passionate about music<br>🗄️ I enjoy exploring various programming languages
+Hi! I'm Beia Ann E. Rodriguez, a second-year Information Technology student.<br>🎶 I'm passionate about music<br>🗄️ I enjoy exploring various programming languages </br>
 ![](https://komarev.com/ghpvc/?username=your-github-beia-rodriguez)
 
 
