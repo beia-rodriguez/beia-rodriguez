@@ -3,7 +3,7 @@ Hi! I'm Beia Ann E. Rodriguez, a second-year Information Technology student.<br>
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/beiaann.rodriguez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@beiiance) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beiaann.rodriguez@cvsu.edu.ph) </br>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/beiaann.rodriguez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@beiiancee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beiaann.rodriguez@cvsu.edu.ph) </br>
 ![](https://github.com/beia-rodriguez/beia-rodriguez/blob/main/Computer%20Geek.gif)
 
 # 💻 Tech Stack:  
