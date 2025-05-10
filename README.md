@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hi! I'm Beia Ann E. Rodriguez, a second-year Information Technology student.<br>🎶 I'm passionate about music<br>🗄️ I enjoy exploring various programming languages </br>
-![](https://komarev.com/ghpvc/?username=your-github-beia-rodriguez)
 
 
 ## 🌐 Socials:
@@ -16,6 +15,7 @@ Hi! I'm Beia Ann E. Rodriguez, a second-year Information Technology student.<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) </br>
-![](https://github.com/beia-rodriguez/beia-rodriguez/blob/main/download.gif)
+![](https://github.com/beia-rodriguez/beia-rodriguez/blob/main/download.gif) </br>
+![](https://komarev.com/ghpvc/?username=your-github-beia-rodriguez)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
