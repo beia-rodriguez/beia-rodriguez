@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! I'm Beia Ann E. Rodriguez, a second-year Information Technology student.<br>🎶 I'm passionate about music<br>🗄️ I enjoy exploring various programming languages </br>
-
+![](https://github.com/beia-rodriguez/beia-rodriguez/blob/main/github-foundations.gif)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/beiaann.rodriguez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beiiancee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beiaann.rodriguez@cvsu.edu.ph) </br>
